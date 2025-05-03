@@ -1,5 +1,5 @@
 # Calculadora de Indução Eletromagnética
-## Este projeto em Python realiza cálculos de força eletromotriz induzida (ε) com base na Lei de Faraday-Lenz. Ele também apresenta explicações teóricas e armazena um histórico dos cálculos em um banco de dados SQLite.
+### Este projeto em Python realiza cálculos de força eletromotriz induzida (ε) com base na Lei de Faraday-Lenz. Ele também apresenta explicações teóricas e armazena um histórico dos cálculos em um banco de dados SQLite.
 ## Funcionalidades
 - Cálculo da força eletromotriz: ε = – ΔΦ / Δt
 - Explicação da teoria da indução eletromagnética
